@@ -17,12 +17,17 @@
 
  Portfolio Project
 
+  Project Overview
+
+ This project is a research collection of LinkedIn content strategies used by top B2B SaaS creators. The goal is to analyze high
+ performing content and build a foundation for a future playbook.
+
  Topic
-LinkedIn Organic Content Strategy for B2B SaaS
+ LinkedIn Organic Content Strategy for B2B SaaS
 
  What I Did
 - Selected 10 LinkedIn experts in B2B SaaS content strategy
-- Collected real LinkedIn posts from each expert
+- Collected 10 experts and 20+ real LinkedIn posts
 - Organized posts into structured folders in GitHub
 - Created a research repository for future content playbook
 
@@ -47,3 +52,6 @@ LinkedIn Organic Content Strategy for B2B SaaS
 
  Outcome
  This project helped me understand how top creators write LinkedIn content and how B2B SaaS content strategy works in practice.
+ 
+  Status
+  Completed within 3 days as per assignment requirements.
