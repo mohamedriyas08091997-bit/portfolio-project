@@ -13,7 +13,9 @@
 3. Created GitHub repository
 4. Created README file
 
- Issues Faced# Portfolio Project
+ Issues Faced
+
+ Portfolio Project
 
  Topic
 LinkedIn Organic Content Strategy for B2B SaaS
@@ -21,11 +23,12 @@ LinkedIn Organic Content Strategy for B2B SaaS
  What I Did
 - Selected 10 LinkedIn experts in B2B SaaS content strategy
 - Collected real LinkedIn posts from each expert
-- Organized posts into structured folders
-- Created a research repository for future playbook creation
+- Organized posts into structured folders in GitHub
+- Created a research repository for future content playbook
 
  Why I Chose These Experts
-I selected experts who actively create high-quality LinkedIn content and have real-world experience in building audiences and growing B2B SaaS businesses.
+ I selected experts who actively create high-quality LinkedIn content and have real-world experience in building audiences and growing B2B 
+ SaaS businesses.
 
  Repository Structure
 - /research/sources.md → List of experts
@@ -33,18 +36,14 @@ I selected experts who actively create high-quality LinkedIn content and have re
 
  Challenges Faced
 - Cursor IDE login issue (stuck on loading)
-- Solved by continuing work directly on GitHub
-- Learned how to structure repositories manually
+- Resolved by continuing work directly on GitHub
+- Learned repository structuring manually
+
+ Key Learnings
+- High-performing LinkedIn posts are simple and easy to read
+- Short-form structured writing performs better
+- Personal stories + actionable insights work best
+- Consistency is key for growth
 
  Outcome
-This project helped me understand how top creators write LinkedIn content and how content strategy works in B2B SaaS.
-- Cursor stuck on loading screen
-
- Solutions
-- Restarted app
-- Tried browser login
-- Continued using GitHub directly
-- 
-
- Result
-Completed the task successfully and uploaded to GitHub
+ This project helped me understand how top creators write LinkedIn content and how B2B SaaS content strategy works in practice.
